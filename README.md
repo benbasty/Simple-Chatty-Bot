@@ -3,7 +3,9 @@
 
 Digital personal assistants help people to drive cars, plan their day, buy something online. <br>
 In a sense, they are simplified versions of artificial intelligence with whom you can talk. <br>
-In this project, you will develop step by step a simple bot that will help you study programming. <br>
+In this project, we will develop step by step a simple bot that will help you study programming. <br>
+
+<img src="https://github.com/benbasty/Simple-Tic-Tac-Toe/blob/main/SimpleChattyBot.gif" width="800" height="500" />
 
 ## Stages
 **Stage 1: Hello! What’s your name ?**
